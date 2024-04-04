@@ -32,7 +32,7 @@ Minitalk is a communication program that comunicate between a server and a clien
 ### Installation
 
 **1. Clone the repository to your local machine:**
-git clone https://github.com/yourusername/minitalk.git
+git clone https://github.com/Beata12/minitalk.git
 
 **2. Navigate to the project directory:**
 cd minitalk
