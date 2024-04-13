@@ -10,6 +10,10 @@ Minitalk is a communication program that comunicate between a server and a clien
 
 - **Client**: The client program requires two arguments for its operation: the server's PID and the string message to be sent to the server. Once executed, the client sends the specified string to the server using UNIX signals.
 
+
+![image](https://github.com/Beata12/minitalk/assets/38575612/03ea59e9-13d5-4a70-808c-37d75103bd45)
+
+
 ### Features
 
 - **Efficient Communication**: The server displays the received string from the client almost instantly. The program is optimized to ensure that the transmission and display of messages are executed swiftly.
